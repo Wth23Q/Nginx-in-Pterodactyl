@@ -93,8 +93,6 @@ $phpVersion = phpversion();
     <p>Your current PHP version is:</p>
     <div class="php-version"><?php echo $phpVersion; ?></div>
     <div class="message">Webserver correctly installed and running!</div>
-    <div class="footer">
-        <p>Powered by <a href="https://sigmaprods.dev" target="_blank">sigmaprods.dev</a></p>
     </div>
 </div>
 
